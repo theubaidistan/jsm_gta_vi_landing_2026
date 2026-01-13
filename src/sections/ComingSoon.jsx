@@ -6,7 +6,8 @@ const ComingSoon = () => {
 
         <div className="text-wrapper">
           <h3 className="gradient-title">
-            Coming <br /> Novemeber 19th <br /> 2026
+            {/* Coming <br /> Novemeber 19th <br /> 2026 */}
+            Coming <br /> Nov 19th <br /> 2026
           </h3>
         </div>
 
