@@ -34,7 +34,7 @@ const Jason = () => {
   });
 
   return (
-    <div className="jason">
+    <section className="jason">
       <div className="max-w-lg jason-content">
         <h1>Jason Duval</h1>
         <h2>Jason wants an easy life, but things just keep getting harder.</h2>
@@ -59,7 +59,7 @@ const Jason = () => {
           <img src="/images/jason-3.webp" />
         </div>
       </div>
-    </div>
+    </section>
   );
 };
 
