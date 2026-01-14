@@ -1,5 +1,5 @@
-import gsap from "gsap";
 import { useGSAP } from "@gsap/react";
+import gsap from "gsap";
 
 const Outro = () => {
   useGSAP(() => {
@@ -25,7 +25,6 @@ const Outro = () => {
 
         <div>
           <h3 className="gradient-title">
-            {/* Coming <br /> Novemeber 19th <br /> 2026 */}
             Coming <br /> Nov 19th <br /> 2026
           </h3>
         </div>
